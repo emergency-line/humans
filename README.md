@@ -7,3 +7,8 @@
 - Glare inside a homan https://nerver.net
 - I'm going out I'll eat something
 - Yo
+
+### How to become a doctor
+
+- Visit Norway and donate your organs
+- Click this https://organdonasjon.no/english/?referer=nerver&referee=negative&sebep=immadoctor
