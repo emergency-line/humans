@@ -1,0 +1,3 @@
+- I am coughing.
+- There might be a virus.
+- So let's wait.
