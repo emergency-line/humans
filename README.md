@@ -7,6 +7,7 @@
 - Glare inside a homan https://nerver.net
 - I'm going out I'll eat something
 - Yo
+- I ate sesamring & eggs & bacon, it's amazing
 
 ### How to become a doctor
 
