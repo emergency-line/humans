@@ -12,3 +12,7 @@
 
 - Visit Norway and donate your organs
 - Click this https://organdonasjon.no/english/?referer=nerver&referee=negative&sebep=immadoctor
+
+### How to have a safe internet
+- The user @yakuter needs to activate 2 factor authentication.
+
