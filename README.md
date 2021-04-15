@@ -1,3 +1,3 @@
-- I am coughing.
-- There might be a virus.
-- So let's wait.
+- I am not coughing now.
+- The virus went away.
+- So let's not dig it too much.
